@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    .bannier{
+        margin-bottom: 5%;
+        background-color: #f48924;
+        color: #ffffff;
+        padding: 2%;
+        box-shadow: 2px 1px 3px #000000;
+        h1{
+            margin: 0;
+            text-align: center;
+            text-transform: capitalize;
+        }
+    }
+    .contenair{
+        width: 1024px;
+        margin: auto;
+        #editor {
+            height: 400px;
+          }
+    }
+}
